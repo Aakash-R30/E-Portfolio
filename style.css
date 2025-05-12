@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  background: #f4f4f4;
+  color: #333;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  padding: 50px 0;
+  background: #2c3e50;
+  color: white;
+}
+
+.tagline {
+  font-style: italic;
+  margin-top: 10px;
+  color: #ecf0f1;
+}
+
+section {
+  padding: 40px 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+  color: #2c3e50;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  padding: 5px 0;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px;
+  color: #777;
+}
